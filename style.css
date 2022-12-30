@@ -1,0 +1,37 @@
+body {
+    background-color:rgb(229, 245, 245)
+}
+img{
+    height:200px;
+}
+hr{
+    border-style:none;
+    border-top-style:dotted;
+    /* background-color:rgb(209, 208, 208); */
+    border-color:grey;
+    border-width:12px;
+    /* height:0px; */
+    width:10%;  
+}
+
+h1{
+    color:#4ee0d1;
+}
+
+h1:hover{
+    color:#c8307f;
+    cursor: pointer;
+}
+
+h2{
+    color:#41c0b3;
+}
+
+h2:hover{
+    color:#4826a5;
+    cursor: pointer;
+}
+
+img{
+    border-radius:80px;
+}
